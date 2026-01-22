@@ -1,0 +1,8 @@
+Length = input("Please Type Length : \n")
+print("The Length is : " + Length)
+Width = input("Please Type Width : \n")
+print("The Width is : " +  Width)
+price = input("How mush for 1 meter ? \n")
+total = float(Length) * float(Width)
+print("The total is : " + str(total))
+print("Give the guy :  $" +   str(total * float(price) ))

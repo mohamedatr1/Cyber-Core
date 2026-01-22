@@ -1,0 +1,9 @@
+Dear {name},
+
+You are invited to the [ATR Student Event]
+Join us to learn, share, and have fun with your friends.
+
+We can't wait to see you there!
+
+Best regards!
+{signature}.

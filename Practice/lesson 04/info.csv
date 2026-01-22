@@ -1,0 +1,21 @@
+data,location,sales,payment_method
+2022-01-01,Algiers,1200,Card
+2022-01-02,Oran,800,Cash
+2022-01-03,Constantine,1500,Card
+2022-01-04,Annaba,900,Cash
+2022-01-05,Blida,1000,Card
+2022-01-06,Djelfa,700,Cash
+2022-01-07,Sétif,1300,Card
+2022-01-08,Tlemcen,1100,Cash
+2022-01-09,Algiers,1400,Card
+2022-01-10,Bordj Bou Arréridj,600,Cash
+2022-01-11,Algiers,1600,Card
+2022-01-12,Oran,850,Cash
+2022-01-13,Constantine,1700,Card
+2022-01-14,Annaba,950,Cash
+2022-01-15,Blida,1050,Card
+2022-01-16,Djelfa,750,Cash
+2022-01-17,Sétif,1350,Card
+2022-01-18,Algiers,1150,Cash
+2022-01-19,Algiers,1450,Card
+2022-01-20,Bordj Bou Arréridj,650,Card
