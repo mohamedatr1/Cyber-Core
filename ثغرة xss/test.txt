@@ -1,7 +1,0 @@
- <label>search art</label>
-input name="searchFor" type="text" size="10">
-input name="goButton" type="submit" value="go">
-
-
-input name="searchFor
-input name="goButton"
